@@ -3,7 +3,7 @@ layout sederhana
 LAPORAN PRATIKUM 4
 1.	Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 
-
+![Tampilan Web](1.jpg)
 
 
 
