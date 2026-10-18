@@ -95,12 +95,14 @@ Mengatur Footer
  
 
 
-
-
+![Tampilan Web](100.jpg)
+![Tampilan Web](101.jpg)
 
 Menambahkan Elemen lainnya pada Main Content
  
-
+![Tampilan Web](123.jpg)
+![Tampilan Web](124.jpg)
+![Tampilan Web](125.jpg)
 
 
 
@@ -119,7 +121,9 @@ Menambahkan Elemen lainnya pada Main Content
 Menambahkan Content Artikel
 
  
-
+![Tampilan Web](131.jpg)
+![Tampilan Web](132.jpg)
+![Tampilan Web](133.jpg)
  
 
 
