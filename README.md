@@ -1,4 +1,5 @@
 # lab4web
+halaman web jadi https://choilrul48-create.github.io/lab4web/
 layout sederhana
 LAPORAN PRATIKUM 4
 1.	Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
