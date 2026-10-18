@@ -102,7 +102,7 @@ Mengatur Footer
 Menambahkan Elemen lainnya pada Main Content
  
 ![Tampilan Web](123.jpg)
-![Tampilan Web](124.jpg)
+![Tampilan Web](126.jpg)
 ![Tampilan Web](125.jpg)
 
 
