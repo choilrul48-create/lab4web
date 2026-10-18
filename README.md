@@ -32,8 +32,8 @@ Pengaturan css
 HASILL
 ![Tampilan Web](31.jpg)
  
-             Eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both,
-right), dan amati perubahannya.
+             Eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both,right), dan amati perubahannya.
+             
 •	Pada saat di properti clear di ganti valaue both maka tidak ada perubahan sama seperti left
  ![Tampilan Web](4.jpg)
  ![Tampilan Web](41.jpg)
