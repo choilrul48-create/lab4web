@@ -127,17 +127,5 @@ Menambahkan Content Artikel
 
 
 
-
-Pertanyaan dan Tugas
-1. Tambahkan Layout untuk menu About
-      
-
- 
-
-
-
-
-2. Tambahkan layout untuk menu Contact
-
    
 
